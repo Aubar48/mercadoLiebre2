@@ -1,11 +1,11 @@
-# Tp Mercado Liebre, Digital House C21 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/> 
+# Tp Mercado Liebre, Digital House C21 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/> 
 
 ### web render[https://mercadoliebre2-6nme.onrender.com/]
 
-<figure><img src="./mock/main_vista_dinamica.png" alt="logo" style="height: 400px;"></figure>
-<figure><img src="./mock/form_creation.png" alt="logo" style="height: 400px;"><figure>   
-<figure><img src="./mock/detalle_producto.png" alt="logo" style="height: 400px;"></figure> 
-<figure><img src="./mock/edit_producto.png" alt="logo" style="height: 400px;"></figure> 
+<figure><img src="./mock/main_vista_dinamica.png" alt="logo" style="height: 200px;"></figure>
+<figure><img src="./mock/form_creation.png" alt="logo" style="height: 200px;"><figure>   
+<figure><img src="./mock/detalle_producto.png" alt="logo" style="height: 200px;"></figure> 
+<figure><img src="./mock/edit_producto.png" alt="logo" style="height: 200px;"></figure> 
 
 
 ## Instrucciones
