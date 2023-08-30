@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-
+const { unlinkSync, existsSync } = require("fs");
 const productsFilePath = path.join(__dirname, '../data/productsDataBase.json');
 const products = JSON.parse(fs.readFileSync(productsFilePath, 'utf-8'));
 
@@ -45,7 +45,7 @@ const controller = {
 			discount: +discount,
 			category,
 			description: description.trim(),
-			image: null
+			image: req.file ? req.file.filename : null,
 		}
 		products.push(newProduct)
 
@@ -75,6 +75,10 @@ const controller = {
 				product.discount = +discount;
 				product.category = category;
 				product.description = description.trim();
+				req.file &&
+					existsSync(`./public/images/${product.image}`) &&
+					unlinkSync(`./public/images/${product.image}`);
+				product.image = req.file ? req.file.filename : product.image;
 			}
 			return product
 		})
